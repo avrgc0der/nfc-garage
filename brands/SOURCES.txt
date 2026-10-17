@@ -1,0 +1,12 @@
+Official manufacturer identity assets used for car selection.
+
+Mazda wing emblem (white):
+https://www.mazda.com/etc.clientlibs/mazda-com/clientlibs/clientlib-site/resources/images/icon/logo_mark_wh.svg
+From https://www.mazda.com/en/
+Downloaded unmodified.
+
+Ford blue oval:
+https://corporate.ford.com/
+Extracted navigation-menu-ford-logo SVG symbol into a standalone SVG, preserving all original paths, colors and viewBox.
+
+Mazda and Ford marks belong to their respective owners. No affiliation implied.
