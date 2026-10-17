@@ -1,0 +1,24 @@
+3D MODEL CREDITS
+
+1999 Mazda RX-7 FD — OUTPISTON
+https://sketchfab.com/3d-models/1999-mazda-rx-7-fd-6ea4245c67c1438189fe37ca91516d78
+
+2020 Ford Mustang Shelby GT500 — Ddiaz Design
+https://sketchfab.com/3d-models/2020-ford-mustang-shelby-gt500-5e864cfc33294b34b7a43c96646bc9f4
+The creator credits CSR2 and ZD 3D Modelling and Design for the source model.
+
+Both models: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Adaptations: red RX-7 paint, studio materials, panel/wheel separation and animation pivots,
+mesh simplification and compression. Adapted models retain CC BY-NC-SA 4.0.
+The added RX-7 engine-bay shapes are illustrative. No affiliation with manufacturers.
+
+BRAND IDENTITIES
+Official Mazda wing emblem and Ford blue oval, used to identify the two cars.
+Source details: /brands/SOURCES.txt
+Mazda and Ford marks belong to their respective owners.
+
+AUDIO
+Original procedural engine synthesis, with different rotary and V8 voices.
+These are illustrative sounds, not recordings of either vehicle.
